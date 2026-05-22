@@ -1,0 +1,6 @@
+{
+  "name": "ReelForge AI",
+  "description": "Create viral short-form video scripts, cinematic image details, animation prompts, and SEO content in one click.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
